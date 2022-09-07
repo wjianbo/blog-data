@@ -11,4 +11,4 @@ date: 2022-09-04 14:54:09
 ---
 
 ### 9/6
-- [The Power of Composition - Scott Wlaschin - NDC Oslo 2020](youtube.com/watch?v=rCKPgu4DvcE)
+- [The Power of Composition - Scott Wlaschin - NDC Oslo 2020](https://youtube.com/watch?v=rCKPgu4DvcE)
