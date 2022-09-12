@@ -5,11 +5,24 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [九月第三周](https://github.com/wjianbo/blog-data/issues/24)--2022-09-12
 - [Sep.W2](https://github.com/wjianbo/blog-data/issues/23)--2022-09-04
 - [九月第一周](https://github.com/wjianbo/blog-data/issues/22)--2022-09-01
 - [ITパスポート試験対策](https://github.com/wjianbo/blog-data/issues/21)--2022-08-23
 - [八月第四周](https://github.com/wjianbo/blog-data/issues/20)--2022-08-22
+## DIARY
+- [九月第一周](https://github.com/wjianbo/blog-data/issues/22)--2022-09-01
+- [八月第四周](https://github.com/wjianbo/blog-data/issues/20)--2022-08-22
 - [八月第三周](https://github.com/wjianbo/blog-data/issues/19)--2022-08-16
+- [八月第二周](https://github.com/wjianbo/blog-data/issues/16)--2022-08-07
+- [四月第二周](https://github.com/wjianbo/blog-data/issues/13)--2022-04-09
+<details><summary>显示更多</summary>
+
+- [周记3-4](https://github.com/wjianbo/blog-data/issues/11)--2022-03-31
+- [周记3-3](https://github.com/wjianbo/blog-data/issues/8)--2022-03-22
+- [周记3-2](https://github.com/wjianbo/blog-data/issues/6)--2022-03-13
+</details>
+
 ## TODO
 TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--1 jobs to do--5 jobs done
 - [x] 《重构》
