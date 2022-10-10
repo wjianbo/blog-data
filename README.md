@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [十月第二周](https://github.com/wjianbo/blog-data/issues/28)--2022-10-10
 - [十月第一周](https://github.com/wjianbo/blog-data/issues/27)--2022-10-03
 - [九月第五周](https://github.com/wjianbo/blog-data/issues/26)--2022-09-29
 - [屋久岛](https://github.com/wjianbo/blog-data/issues/25)--2022-09-29
 - [九月第三周](https://github.com/wjianbo/blog-data/issues/24)--2022-09-12
-- [Sep.W2](https://github.com/wjianbo/blog-data/issues/23)--2022-09-04
 ## DIARY
 - [九月第一周](https://github.com/wjianbo/blog-data/issues/22)--2022-09-01
 - [八月第四周](https://github.com/wjianbo/blog-data/issues/20)--2022-08-22
