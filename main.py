@@ -274,6 +274,17 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
 
 
 def save_issue(issue, me, dir_name=BACKUP_DIR):
+    # get a recursive list of file paths that matches pattern including sub directories
+    files_to_be_deleted = os.path.join(dir_name, f"{issue.number}_*.md")
+    fileList = glob.glob(files_to_be_deleted, recursive=True)
+    # Iterate over the list of filepaths & remove each file.
+    for filePath in fileList:
+        try:
+            os.remove(filePath)
+            print(filePath)
+        except OSError:
+            print("Error while deleting file")
+
     md_name = os.path.join(
         dir_name, f"{issue.number}_{issue.title.replace(' ', '.')}.md"
     )
