@@ -1,5 +1,5 @@
 ---
-title: 日志
+title: DIARY
 disable_mathjax: true
 disable_highlight: true
 ---
