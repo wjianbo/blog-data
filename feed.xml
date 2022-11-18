@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/wjianbo/blog-data</id><title>RSS feed of wjianbo's blog-data</title><updated>2022-11-18T05:55:08.504995+00:00</updated><author><name>wjianbo</name><email>jnb.wang@gmail.com</email></author><link href="https://github.com/wjianbo/blog-data"/><link href="https://raw.githubusercontent.com/wjianbo/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/wjianbo/blog-data/issues/33</id><title>第三周</title><updated>2022-11-18T05:55:08.927422+00:00</updated><content type="html"><![CDATA[<p>上周五某出版社的编辑联系到我，说有一本非常好的亲子书，想请“我和我爱人”帮忙翻译。那是一本犯罪心理学家写的育儿书，我和晶都很兴趣，马上就动手翻译，并按照要求提交了一小节译文。本来以为只是走个流程，没想到被出版社的领导否决了。因为我们已经翻了六午多字（有点太过积极了），编辑按照字数付了稿费。想起研究生的时候翻译《小松模式》，整本书翻完交稿了，结果出版方决定不予采用，不过还是署我的名字。也是奇怪的操作了。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/wjianbo/blog-data</id><title>RSS feed of wjianbo's blog-data</title><updated>2022-11-18T06:44:02.147352+00:00</updated><author><name>wjianbo</name><email>jnb.wang@gmail.com</email></author><link href="https://github.com/wjianbo/blog-data"/><link href="https://raw.githubusercontent.com/wjianbo/blog-data/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/wjianbo/blog-data/issues/33</id><title>第三周</title><updated>2022-11-18T06:44:02.439363+00:00</updated><content type="html"><![CDATA[<p>上周五某出版社的编辑联系到我，说有一本非常好的亲子书，想请“我和我爱人”帮忙翻译。那是一本犯罪心理学家写的育儿书，我和晶都很兴趣，马上就动手翻译，并按照要求提交了一小节译文。本来以为只是走个流程，没想到被出版社的领导否决了。因为我们已经翻了六午多字（有点太过积极了），编辑按照字数付了稿费。想起研究生的时候翻译《小松模式》，整本书翻完交稿了，结果出版方决定不予采用，不过还是署我的名字。也是奇怪的操作了。</p>
 <p>不知道是不是受了这件事的刺激，又折腾起博客来。换了新的模版。希望这么漂亮的模版能促使我多写点字。另外感觉没必要每次创建或编辑 issue 都重新生成 markdown 文件，草稿就保持草稿的样子。</p>
 <p>这周的主要任务是准备测试文档和测试数据。理想的代码不需要注释，理想的文档也应该不需要过多解释。简练当然好，前提是不影响理解。如果有图表，要先说明图例。如果没有特别的意义，不要乱用颜色。如果表格过长，记得固定表头。</p>
 <hr />
@@ -21,76 +21,7 @@
 <ul>
 <li>网球课</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/33" rel="alternate"/><published>2022-11-15T21:33:05+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/32</id><title>第二周</title><updated>2022-11-18T05:55:09.103939+00:00</updated><content type="html"><![CDATA[<h3>11/9</h3>
-<p>为了继续用 Z-library，安装了 tor 浏览器。</p>
-<p>试用了 arc 浏览器，会导致死机。</p>
-<p>去邮局寄了帮大学同学买的足球鞋。</p>
-<p>看剧《她和她的她》。</p>
-<hr />
-<h3>11/11</h3>
-<p>之前寄的包裹因为夹带手机被退了回来。晶去重新邮寄。</p>
-<p>网球课。在网球学校旁边的小店吃了拉面。店名叫「我武者羅」，有点酷，不过味道一般。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/32" rel="alternate"/><published>2022-11-09T06:09:58+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/31</id><title>第一周</title><updated>2022-11-18T05:55:09.272249+00:00</updated><content type="html"><![CDATA[<h3>11/2</h3>
-<p>给晶推荐很多年前的韩剧《再次微笑》，她熬夜看完了。</p>
-<p>晶说不是她喜欢的剧情，男女主人公多年以后重逢还是仇人。我不知道为什么常常想起这部剧。我大概偏爱这类剧情：化解看似无解的矛盾。</p>
-<p>晶说不喜欢现在的生活，太堕落了，想早睡早起。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/31" rel="alternate"/><published>2022-11-02T22:12:05+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/30</id><title>第四周</title><updated>2022-11-18T05:55:09.427907+00:00</updated><content type="html"><![CDATA[<h3>10/24</h3>
-<p>早上起来有点阴天。</p>
-<p>梦见在游泳。好像在跟人比赛。</p>
-<p>预约登记✅</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/30" rel="alternate"/><published>2022-10-23T22:30:47+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/29</id><title>10月第3周</title><updated>2022-11-18T05:55:09.585787+00:00</updated><content type="html"><![CDATA[<p>这么快就第三周了。</p>
-<h3>10/21</h3>
-<p>晶在读一本书，兴奋地跟我分享，说她读的时候总是会想起我以前写的东西。她觉得我适合写那类文章。</p>
-<p>晚饭晶提出包饺子。我负责去超市买面。在超市听到广播，说今夜有流星雨。等到半夜，等来了薄云。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/29" rel="alternate"/><published>2022-10-21T15:44:46+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/28</id><title>十月第二周</title><updated>2022-11-18T05:55:09.735865+00:00</updated><content type="html"><![CDATA[<h3>10/10</h3>
-<ul>
-<li>一口气看完了《赛博朋克：边缘跑者》。</li>
-<li>乒乓课。跟教练练习半小时出的汗，赶上自己玩两小时。</li>
-<li>翻译的书准备交稿了。</li>
-</ul>
-<h3>10/12</h3>
-<ul>
-<li>面谈。</li>
-</ul>
-<h3>10/15</h3>
-<ul>
-<li>乒乓。</li>
-</ul>
-<h3>10/16</h3>
-<ul>
-<li>理发。</li>
-<li>萩中公園。好久没去，竟走错了路。</li>
-<li>晚饭去了一家意大利料理店。点了生火腿配无花果、沙拉、不知名的面食、牛排。8600日元。偶尔的奢侈。</li>
-<li>回家整理了相机里的照片。</li>
-<li>该报名摄影课了。</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/28" rel="alternate"/><published>2022-10-10T16:48:18+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/27</id><title>十月第一周</title><updated>2022-11-18T05:55:09.900835+00:00</updated><content type="html"><![CDATA[<h3>10/3</h3>
-<p>晚上边洗碗边看《短剧开始啦》第二集。</p>
-<p>润平为了追女生，找春斗搭档演短剧。春斗由此体会到短剧的乐趣，决定以短剧为生。</p>
-<p>「除了你，我想不到别人。」春斗对润平说。</p>
-<p>润平一直没有告诉春斗，其实在找春斗之前，他还邀请过别人，但被拒绝了。</p>
-<p>春斗十年后得知此事，深受打击。他冲润平吼道：「你难道没有想过，如果和别人合作，也许早就红了？」</p>
-<p>润平也生气地说：「我真不该选你。」</p>
-<p>最后，润平在表演时临时加戏，说出：「我选对了人！」</p>
-<h3>10/4</h3>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 跑步</li>
-<li><input checked="" disabled="" type="checkbox"> 申请旅游补贴</li>
-<li><input checked="" disabled="" type="checkbox"> 预约乒乓课</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/27" rel="alternate"/><published>2022-10-03T14:12:28+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/26</id><title>九月第五周</title><updated>2022-11-18T05:55:10.071766+00:00</updated><content type="html"><![CDATA[<h3>9/28</h3>
-<p>去新现场拿电脑。</p>
-<p>公司在大船站。来访者每人要填两张表格，一张直接交给前台，另一张拿着进去，访问结束后由对方负责人签字后，出去时再交给前台。</p>
-<p>电脑已经提前设置好了。交接时只是试了一下 VPN 可以正常连接。比去之前的现场拿电脑时顺利很多。</p>
-<h3>9/29</h3>
-<p>退场。</p>
-<p>交接时跟人解释自己的部分，记忆已经模糊了。有些后悔没有认真写注释。</p>
-<h3>9/30</h3>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 交勤务表</li>
-<li>晚上去港区的体育馆。</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/26" rel="alternate"/><published>2022-09-29T21:43:23+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/25</id><title>屋久岛</title><updated>2022-11-18T05:55:10.228523+00:00</updated><content type="html"><![CDATA[<h3>DAY 3：白谷云水峡 - 太鼓岩</h3>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/33" rel="alternate"/><published>2022-11-15T21:33:05+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/25</id><title>屋久岛</title><updated>2022-11-18T06:44:02.564003+00:00</updated><content type="html"><![CDATA[<h3>DAY 3：白谷云水峡 - 太鼓岩</h3>
 <p><img src="https://user-images.githubusercontent.com/2434388/193145662-99406192-a66a-4b93-a9ef-91f86c1a1512.jpeg" alt="image" /></p>
 <p>纯山路。上上下下。不时有溪水瀑布。返回时走了人少的路。中途脱掉鞋子下到水中。水很冰，脚舒服了一会儿。晶说比绳纹杉好玩。因为绳纹杉大部分都是沿着小铁路前进，有些单调。</p>
 <p>太鼓岩是一块大石头。容不下十个人。不断有人从山下上来，没有多少时间慢慢拍照。</p>
@@ -106,121 +37,24 @@
 <p>被问到从哪里来，我说东京，又问哪个区，我说大田区。另一个人马上说他老家在蒲田。现在离海中温泉十分钟。</p>
 <p>离开海中温泉有要等很久公交。附近也没什么休闲的地方。</p>
 <p>泡完海中温泉的大叔开着车返回，看到我们在路边，便招呼我们上车，载了我们一站。因为下一站旁边有人家，有店铺。下雨了也有地方「避难」。大叔说他已经卖掉了东京的房子，移居岛上，自己种菜自己吃。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/25" rel="alternate"/><published>2022-09-29T21:32:22+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/24</id><title>九月第三周</title><updated>2022-11-18T05:55:10.427087+00:00</updated><content type="html"><![CDATA[<h3>9/12</h3>
-<ul>
-<li>
-听黄执中的表达课<ul>
-<li>翻来覆去在讲反抗机制</li>
-<li>善弈者，通盘无妙手</li>
-</ul>
-</li>
-<li>然而我还是不知道怎么说服晶早睡</li>
-<li>其实是我需要？</li>
-<li>早睡真的重要吗？</li>
-</ul>
-<h4>【反抗机制案例】（作业）</h4>
-<p>很晚了伴侣还在看手机，我会这样说或这样想：</p>
-<ul>
-<li>早点睡吧。（听上去像“你应该”？）</li>
-<li>你不是还想早起吗？如果不早睡，明早肯定起不来。（高威胁）</li>
-<li>我看你并没有想早起。（妄下判断）</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/24" rel="alternate"/><published>2022-09-12T21:10:58+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/23</id><title>九月第二周</title><updated>2022-11-18T05:55:10.593543+00:00</updated><content type="html"><![CDATA[<h3>9/5</h3>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 学习Rust</li>
-<li><input checked="" disabled="" type="checkbox"> 校稿</li>
-<li><input disabled="" type="checkbox"> 预约登记</li>
-<li><input checked="" disabled="" type="checkbox"> 预约周四🏓️</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/23" rel="alternate"/><published>2022-09-04T14:54:09+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/22</id><title>九月第一周</title><updated>2022-11-18T05:55:10.759479+00:00</updated><content type="html"><![CDATA[<h3>9月1日</h3>
-<ul>
-<li>今年还剩三分之一。</li>
-<li>乒乓🏓️</li>
-<li>左脚微痛。</li>
-</ul>
-<h3>9月2日</h3>
-<ul>
-<li>晨读《Rust编程之道》</li>
-<li>leetcode</li>
-<li>争取明年换一份写Rust的工作？</li>
-<li><a href="https://teramaguro.hatenablog.com/entry/2021/12/28/042743">VSCodeでJavaを始める方法（環境構築）</a></li>
-<li><a href="https://rainbow-engine.com/winserver-firewall-port-allow/">WindowsServerでファイアウォールのポートを許可する手順</a></li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/22" rel="alternate"/><category term="DIARY"/><published>2022-09-01T23:42:01+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/21</id><title>ITパスポート試験対策</title><updated>2022-11-18T05:55:10.911785+00:00</updated><content type="html"><![CDATA[<h3>略語</h3>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/25" rel="alternate"/><published>2022-09-29T21:32:22+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/21</id><title>ITパスポート試験対策</title><updated>2022-11-18T06:44:02.702288+00:00</updated><content type="html"><![CDATA[<h3>略語</h3>
 <ul>
 <li>NDA： Non-Disclosure-Agreement （ 秘密保持契約 ）</li>
 <li>EA：<a href="http://rakusui.org/ea/">Enterprise Architecture</a></li>
 <li>RFI：Request for Information</li>
 <li>RFP：Request for Proposal</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/21" rel="alternate"/><published>2022-08-23T07:43:47+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/20</id><title>八月第四周</title><updated>2022-11-18T05:55:11.088398+00:00</updated><content type="html"><![CDATA[<h3>8月22日</h3>
-<ul>
-<li>给社内系统的员工选择框增加了搜索功能</li>
-<li>难点在于员工名单要根据部门变化</li>
-<li>
-一些参考<ul>
-<li><a href="https://developer.snapappointments.com/bootstrap-select/examples/">bootstrap-select</a></li>
-<li><a href="https://stackoverflow.com/questions/43515919/loading-bootstrap-select-picker-using-ajax">Loading Bootstrap select-picker using AJAX</a></li>
-<li><a href="https://stackoverflow.com/questions/31716151/select-picker-bootstrap-change-noneselectedtext">select picker bootstrap change noneSelectedText</a></li>
-<li><a href="https://mokabuu.com/it/java/%E3%80%90java%E3%80%91thymeleaf%E3%81%A7ajax%E5%87%A6%E7%90%86%E3%82%92%E3%81%97%E3%82%88%E3%81%86%EF%BC%81">【Java】Spring Boot x thymeleafでajax処理をしよう！</a></li>
-</ul>
-</li>
-<li>《黑话律师》第八集</li>
-<li>日常吵架</li>
-<li>会一直吵到老吧，就像父辈一样</li>
-<li>吵架不可避免？</li>
-</ul>
-<h3>8月23日</h3>
-<ul>
-<li>五点起床</li>
-<li>培养新习惯：洗脸后擦干水珠</li>
-</ul>
-<h3>8月25日</h3>
-<ul>
-<li>下班后打乒乓球</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/20" rel="alternate"/><category term="DIARY"/><published>2022-08-22T20:46:45+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/19</id><title>八月第三周</title><updated>2022-11-18T05:55:11.259663+00:00</updated><content type="html"><![CDATA[<h3>8月15日</h3>
-<ul>
-<li>整理柜子</li>
-<li>下单升降桌、装被子的袋子、雨衣</li>
-<li>考虑再考两个证，把高度人才积分凑够80</li>
-<li>《西部世界》第四季完结</li>
-</ul>
-<h3>8月16日</h3>
-<ul>
-<li>中午晶买了汉堡</li>
-<li>晚上晶做了炒面</li>
-<li>《风骚律师》最终季完结</li>
-<li>《黑话律师》第五集</li>
-<li>晶在看《玫瑰之战》</li>
-<li>还在追《非常律师禹英禑》</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/19" rel="alternate"/><category term="DIARY"/><published>2022-08-16T20:54:24+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/18</id><title>读书笔记</title><updated>2022-11-18T05:55:11.423552+00:00</updated><content type="html"><![CDATA[<h2>『村上春樹雑文集』</h2>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/21" rel="alternate"/><published>2022-08-23T07:43:47+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/18</id><title>读书笔记</title><updated>2022-11-18T06:44:02.838547+00:00</updated><content type="html"><![CDATA[<h2>『村上春樹雑文集』</h2>
 <blockquote>
 <p>小説家とは、多くを観察し、わずかしか判断を下さないことを生業とする人間です。</p>
 </blockquote>
 <p>我总以为写东西要有判断，有结论才好，其实未必？</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/18" rel="alternate"/><published>2022-08-09T21:50:03+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/17</id><title>Rust学习笔记</title><updated>2022-11-18T05:55:11.597492+00:00</updated><content type="html"><![CDATA[<h3>TODO</h3>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/18" rel="alternate"/><published>2022-08-09T21:50:03+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/17</id><title>Rust学习笔记</title><updated>2022-11-18T06:44:02.978322+00:00</updated><content type="html"><![CDATA[<h3>TODO</h3>
 <ul>
 <li><input disabled="" type="checkbox"> 《Rust编程之道》</li>
 <li><input disabled="" type="checkbox"> <a href="https://www.freecodecamp.org/news/rust-in-replit/">Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit</a></li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/17" rel="alternate"/><published>2022-08-09T09:43:56+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/16</id><title>八月第二周</title><updated>2022-11-18T05:55:11.765901+00:00</updated><content type="html"><![CDATA[<h3>8月8日</h3>
-<ul>
-<li>起床 6:50</li>
-<li><input checked="" disabled="" type="checkbox"> 冥想</li>
-<li><input checked="" disabled="" type="checkbox"> 翻译</li>
-<li><input disabled="" type="checkbox"> 《Rust编程之道》</li>
-<li><input disabled="" type="checkbox"> 『村上春樹雑文集』</li>
-<li>两个同事生日。</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/16" rel="alternate"/><category term="DIARY"/><published>2022-08-07T21:48:43+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/15</id><title>八月第一周</title><updated>2022-11-18T05:55:11.935712+00:00</updated><content type="html"><![CDATA[<h3>8月1日</h3>
-<ul>
-<li>想去看无印良品的样板房</li>
-<li>本周开始学习 enovia</li>
-<li>黑袍纠察队 第二季第3-4集</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/15" rel="alternate"/><published>2022-08-01T22:57:52+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/14</id><title>Long Time No Write</title><updated>2022-11-18T05:55:12.107115+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/17" rel="alternate"/><published>2022-08-09T09:43:56+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/14</id><title>Long Time No Write</title><updated>2022-11-18T06:44:03.097282+00:00</updated><content type="html"><![CDATA[<ul>
 <li>很久没写博客了。</li>
 <li>一个原因是 Actions 出了问题，懒得动手。</li>
 <li>今天终于修了一下。</li>
@@ -228,42 +62,8 @@
 <li>只是懒而已。</li>
 <li>昨天的酸奶忘记拿进门了。</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/14" rel="alternate"/><published>2022-08-01T22:41:07+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/13</id><title>四月第二周</title><updated>2022-11-18T05:55:12.273606+00:00</updated><content type="html"><![CDATA[<h3>阅读</h3>
-<p>周六去图书馆还书，又借了一本诗集《千年后的百人一首》、一本手机摄影书。</p>
-<p>诗集的现代文译者是上次借的随笔集《神的朋友的朋友的朋友是我》的作者。</p>
-<p>出了图书馆，在旁边的小公园的长椅上翻了两页。想到，也许每一个人都是一个独特的通道，或容器。</p>
-<h3>生活</h3>
-<p>周日跑了一次步。始终没有养成习惯，反倒是练就了不苛责自己的平常心。知行合一当然好。问题是，我知道的太多，想得到的太多。</p>
-<h3>思考</h3>
-<ul>
-<li>「抢菜」是个残酷的词。抢意味着匮乏。意味着有人抢不到。推到极端，只剩一口饭，你抢到吃了，别人就要饿死。奖赏是你能再多活几天，目睹别人饿死的过程。</li>
-</ul>
-<h3>娱乐</h3>
-<ul>
-<li>美好的世界</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/13" rel="alternate"/><category term="DIARY"/><published>2022-04-09T01:20:44+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/12</id><title>WezTerm中日文乱码问题解决方法（Mac）</title><updated>2022-11-18T05:55:12.440680+00:00</updated><content type="html"><![CDATA[<p>在 <code>~/.zshrc</code> 文件中添加一行：</p>
-<pre><code class="language-shell">export LANG=en_US.UTF-8
-</code></pre>
-<p>然后执行 <code>source ~/.zshrc</code> 或重启一下 WezTerm 应该就可以了。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/12" rel="alternate"/><published>2022-04-08T07:13:58+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/11</id><title>3月第4周</title><updated>2022-11-18T05:55:12.594857+00:00</updated><content type="html"><![CDATA[<ul>
-<li>进击的巨人本周停播。</li>
-<li>不良人第五季完结。</li>
-<li>周五休息，陪晶考试。</li>
-<li>12月下单的DevTerm终于准备发货了，不过先要从广东船运到香港（受疫情影响，货车运输切断了）。</li>
-<li>工资日提前了15天</li>
-<li>樱花满开。发了朋友圈。有个朋友说还从来没有见过活的樱花。</li>
-<li>偶尔《原神》。</li>
-<li>继续翻译。这次是一本关于声音的书。可以一边试试其中介绍的方法。</li>
-<li>涨了一点工资。</li>
-</ul>
-<h3>大事</h3>
-<ul>
-<li>晶翻出了我的旧邮件。</li>
-<li>预约婚姻登记（8/10）。</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/11" rel="alternate"/><category term="DIARY"/><published>2022-03-31T03:26:13+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/10</id><title>梦</title><updated>2022-11-18T05:55:12.759241+00:00</updated><content type="html"><![CDATA[<p>上周新买了三明治烤盘。昨天买了面包、培根、黄油。晚上梦见早上把新烤盘的事忘得一干二净，又用平时的锅烤面包了。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/10" rel="alternate"/><published>2022-03-29T21:37:14+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/9</id><title>要做的事</title><updated>2022-11-18T05:55:12.930221+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/14" rel="alternate"/><published>2022-08-01T22:41:07+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/10</id><title>梦</title><updated>2022-11-18T06:44:03.234394+00:00</updated><content type="html"><![CDATA[<p>上周新买了三明治烤盘。昨天买了面包、培根、黄油。晚上梦见早上把新烤盘的事忘得一干二净，又用平时的锅烤面包了。</p>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/10" rel="alternate"/><published>2022-03-29T21:37:14+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/9</id><title>要做的事</title><updated>2022-11-18T06:44:03.355456+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 博客自动化 -- 忽略草稿（draft）</li>
 <li>
 <input checked="" disabled="" type="checkbox"> app demo<ul>
@@ -279,95 +79,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/9" rel="alternate"/><published>2022-03-27T15:52:11+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/8</id><title>周记3-3</title><updated>2022-11-18T05:55:13.106529+00:00</updated><content type="html"><![CDATA[<h3>阅读</h3>
-<ul>
-<li>
-<p>上周逛书店，看到三本感兴趣的书，顺手在图书馆网站上预约了，结果刚过去两天就让我去取（之前预约的都等了很久）。不得不两周读三本书了。</p>
-<ul>
-<li>深夜高速バスに100回ぐらい乗っ</li>
-<li>神様の友達の友達の友達はぼく</li>
-<li>遅く起きた日曜日にいつもの自分</li>
-</ul>
-</li>
-<li>
-<p>看到<a href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/">这篇文章</a>的作者用收据打印机把 GitHub Issue 打印出来，想效仿一下。数字化有一点不足：必须有一个开启的动作才能看到内容。实体则可以一目了然。最简单的工具就是便利贴。</p>
-</li>
-<li>
-<p>读完了《随机漫步的傻瓜》。翻到谢益辉写的<a href="https://yihui.org/cn/2021/07/fooled-by-randomness/">读书笔记</a>。感叹人家的耐心。</p>
-</li>
-</ul>
-<h3>思考</h3>
-<ul>
-<li>人为什么要有仇恨。仇恨不会令任何人幸福。一个人如果足够聪明，就会选择做好人，去原谅。那么怀有仇恨的人是笨吗？仇恨的土壤是痛苦。让经历过苦难的人不去仇恨，太难了。也许是因为这个原因，有的国家给罪犯的待遇很好。这样的制度，大概只有真正幸福的人才能想得出。痛苦的人无法理解：为什么他们明明做了错事，竟可以过得比我好。如果有一种仇恨是正确的，那便是对恶的仇恨。仇恨的对象应该是恶行，而不是人。犯错的人，令其付出相应的代价，这便是法律存在的意义。</li>
-</ul>
-<h3>运动</h3>
-<ul>
-<li>仰卧起坐 40</li>
-</ul>
-<h3>工作</h3>
-<ul>
-<li>接了一本新书的翻译。时间相对宽松。计划两个人每天各翻译一小节。</li>
-<li>iOS 开发不起劲。原因是想得太多，太把自己当回事，总想做好，还是放低姿态，回到初心：练手而已。不可能什么都称心如意，不可能什么都会，不可能一步到位，也不必一步到位。</li>
-</ul>
-<h3>娱乐</h3>
-<ul>
-<li>国王排名
-波吉当上国王却失去朋友，终日闷闷不乐。最终，他选择让位，和朋友一起周游世界，将来建立自己的国家。<br />
-大概人都经历这样的过程：走向自己的反面。唯有如此，才称得上是一个自由的人。</li>
-<li>进击的巨人</li>
-<li>不良人</li>
-</ul>
-<h3>大事</h3>
-<ul>
-<li>空难</li>
-<li>晶摔伤了脚</li>
-</ul>
-<h3>其他</h3>
-<ul>
-<li>给 MacBook 装上了 WezTerm，告别 iTerm。</li>
-<li>等了三个月的 DevTerm 终于发货了。</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/8" rel="alternate"/><category term="DIARY"/><published>2022-03-22T01:30:23+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/6</id><title>周记3-2</title><updated>2022-11-18T05:55:13.275373+00:00</updated><content type="html"><![CDATA[<h3>阅读</h3>
-<ul>
-<li>『小説の惑星〜オーシャンラズベリー篇』</li>
-<li><a href="coke.do/issues/86-5k-1081547">可乐 #86 如何获得5k邮件通讯读者，如何写「关于」页面，什么是标题党，什么是大象思维
-By happy xiao</a></li>
-</ul>
-<h3>观察</h3>
-<ul>
-<li>...</li>
-</ul>
-<h3>思考</h3>
-<ul>
-<li>...</li>
-</ul>
-<h3>工作</h3>
-<ul>
-<li>补译</li>
-<li>app demo</li>
-</ul>
-<h3>生活</h3>
-<ul>
-<li>5点半起床 ❎*7</li>
-<li>运动 ❎*6✅</li>
-<li>周日爬高尾山 ❎</li>
-<li>麻辣大学（烤鱼）</li>
-</ul>
-<h3>娱乐</h3>
-<ul>
-<li>《相逢时节》✅</li>
-<li>《进击的巨人》</li>
-<li>《国王排名》</li>
-<li>《不良人第五季》</li>
-<li>《真凶标签》✅</li>
-<li>《隔壁的阿力》</li>
-<li>《新蝙蝠侠》</li>
-</ul>
-<h3>写作</h3>
-<ul>
-<li>...</li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/6" rel="alternate"/><category term="DIARY"/><published>2022-03-13T23:05:34+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/5</id><title>阅读</title><updated>2022-11-18T05:55:13.450530+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/9" rel="alternate"/><published>2022-03-27T15:52:11+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/5</id><title>阅读</title><updated>2022-11-18T06:44:03.480178+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 《重构》</li>
 <li><input checked="" disabled="" type="checkbox"> 《随机漫步的傻瓜》（～2022.3）</li>
 <li><input disabled="" type="checkbox"> 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）</li>
@@ -375,77 +87,24 @@ By happy xiao</a></li>
 <li><input checked="" disabled="" type="checkbox"> 『一人称単数』（～2.5）</li>
 <li><input checked="" disabled="" type="checkbox"> 『クジラアタマの王様』（7.30〜</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/5" rel="alternate"/><category term="TODO"/><published>2022-03-08T07:33:13+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/4</id><title>周记3-1</title><updated>2022-11-18T05:55:13.620940+00:00</updated><content type="html"><![CDATA[<h3>阅读</h3>
-<p><strong>『小説の惑星〜オーシャンラズベリー篇』</strong></p>
-<p>伊坂幸太郎主编的短篇小说集。这是第二本。第二篇『恋愛雑用論』很有趣，忍不住想动手翻译一下（很随意的）：</p>
-<blockquote>
-<ul>
-<li>两只狗由各自主人牵着在路上偶遇，它们会去嗅嗅对方的屁股。它们即使终其一生不遇到彼此，依然可以过得很好。但是它们遇到了，就不得不嗅对方的屁股。这就是恋爱。</li>
-<li>「我觉得你和某某很般配呢，要不要在一起。」「才不要。那家伙就跟刚从蛋里孵出来一样，而我都能下蛋了。」</li>
-</ul>
-</blockquote>
-<h3>观察</h3>
-<ul>
-<li>...</li>
-</ul>
-<h3>思考</h3>
-<ul>
-<li>记录可以作为生活的方法。以记录为方法的生活，或许可以称为“面向记录生活”或者“记录驱动生活”。把留下某种记录作为生活的目的，显然是本末倒置。但它不失为一种思考生活的方法。这种方法可以归结为一个问题：<strong>我想留下怎样的生活记录？</strong></li>
-<li>生活从有序到无序，正如水流从高处到低处。</li>
-</ul>
-<h3>工作</h3>
-<ul>
-<li>去年翻译的书终于开始审稿，有些漏译的地方需要补。漏译了许多脚注，实属不该。不由得想到“草台班子”理论。尽管漏译，字数还是有11万多。</li>
-<li>将近一年没有去办公室上班，但是因为拿了门禁卡，不得不去换新的。</li>
-</ul>
-<h3>生活</h3>
-<ul>
-<li>周六做了生煎包。</li>
-</ul>
-<h3>娱乐</h3>
-<ul>
-<li>《相逢时节》</li>
-<li>《进击的巨人》</li>
-<li>《国王排名》</li>
-<li>《不良人第五季》</li>
-<li>《真凶标签》</li>
-</ul>
-<h3>写作</h3>
-<ul>
-<li><a href="https://wjianbo.github.io/cn/issues/1_%E7%94%A8github.issues%E5%86%99%E5%8D%9A%E5%AE%A2/">用GitHub Issues写博客</a></li>
-</ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/4" rel="alternate"/><published>2022-03-07T22:28:12+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/3</id><title>Vim笔记</title><updated>2022-11-18T05:55:13.789425+00:00</updated><content type="html"><![CDATA[<p>这里记录学习和使用 Vim/NeoVim 的笔记。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/3" rel="alternate"/><published>2022-03-07T02:42:17+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/2</id><title>娱乐</title><updated>2022-11-18T05:55:14.130440+00:00</updated><content type="html"><![CDATA[<h3>动漫</h3>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/5" rel="alternate"/><category term="TODO"/><published>2022-03-08T07:33:13+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/3</id><title>Vim笔记</title><updated>2022-11-18T06:44:03.590362+00:00</updated><content type="html"><![CDATA[<p>这里记录学习和使用 Vim/NeoVim 的笔记。</p>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/3" rel="alternate"/><published>2022-03-07T02:42:17+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/2</id><title>娱乐</title><updated>2022-11-18T06:44:03.700373+00:00</updated><content type="html"><![CDATA[<h3>动漫</h3>
 <ul>
 <li><input disabled="" type="checkbox"> 进击的巨人 最终季</li>
-<li><input disabled="" type="checkbox"> 国王排名</li>
+<li><input checked="" disabled="" type="checkbox"> 国王排名</li>
 <li><input disabled="" type="checkbox"> 海贼王</li>
-<li><input disabled="" type="checkbox"> 不良人 第五季</li>
+<li><input checked="" disabled="" type="checkbox"> 不良人 第五季</li>
 </ul>
 <h3>剧集</h3>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 勿言推理</li>
 <li><input checked="" disabled="" type="checkbox"> 真凶标签</li>
 <li><input checked="" disabled="" type="checkbox"> 人生切割术Severance（2022）</li>
-<li><input disabled="" type="checkbox"> 风骚律师 最终季（4.18～</li>
+<li><input checked="" disabled="" type="checkbox"> 风骚律师 最终季（4.18～</li>
 </ul>
 <h3>游戏</h3>
 <ul>
 <li><input disabled="" type="checkbox"> 塞尔达</li>
 <li><input disabled="" type="checkbox"> 吾之战争</li>
 </ul>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/2" rel="alternate"/><category term="TODO"/><published>2022-03-07T02:24:15+00:00</published></entry><entry><id>https://github.com/wjianbo/blog-data/issues/1</id><title>用GitHub Issues写博客</title><updated>2022-11-18T05:55:14.297810+00:00</updated><content type="html"><![CDATA[<p>blog 实现了自动部署，又纠结起写作工具。手机上喜欢用熊掌记，但是上传发布还是有些麻烦，于是又想起 issues[^1]。受 <a href="https://github.com/yihong0618">yihong</a> 的<a href="https://github.com/yihong0618/gitblog/issues/177">开源博客</a>启发，想到如下的更新流程：</p>
-<pre><code class="language-mermaid">graph TD
-A[用 issue 写作] --&gt; |Generate GitBlog README| B[issue 内容添加至 blog 源码仓库]
-B --&gt; |Auto Deploy hugo| C[自动生成静态文件并更新 blog 仓库]
-</code></pre>
-<p>一共用到 2 个 action：</p>
-<ul>
-<li>Generate GitBlog README[^2]</li>
-<li>Auto Deploy hugo[^3]</li>
-</ul>
-<p>相关代码在我的 <a href="https://github.com/wjianbo/blog-data">blog-data 仓库</a>里都可以找到，欢迎参考。</p>
-<p>[^1]: 用 issues 写作的想法最早来自<a href="https://io-oi.me/tech/continuous-writing-with-github-issues/">这篇文章</a>。
-[^2]: 参考 <a href="https://github.com/yihong0618">yihong</a> 的<a href="https://github.com/yihong0618/gitblog/issues/177">开源博客</a>。
-[^3]: 参考<a href="https://zhuanlan.zhihu.com/p/403221054">知乎文章</a>。</p>
-]]></content><link href="https://github.com/wjianbo/blog-data/issues/1" rel="alternate"/><published>2022-03-07T00:42:13+00:00</published></entry></feed>
+]]></content><link href="https://github.com/wjianbo/blog-data/issues/2" rel="alternate"/><category term="TODO"/><published>2022-03-07T02:24:15+00:00</published></entry></feed>

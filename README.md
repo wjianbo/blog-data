@@ -6,23 +6,10 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
  | ---- | ---- | ---- |
 ## 最近更新
 - [第三周](https://github.com/wjianbo/blog-data/issues/33)--2022-11-15
-- [第二周](https://github.com/wjianbo/blog-data/issues/32)--2022-11-09
-- [第一周](https://github.com/wjianbo/blog-data/issues/31)--2022-11-02
-- [第四周](https://github.com/wjianbo/blog-data/issues/30)--2022-10-23
-- [10月第3周](https://github.com/wjianbo/blog-data/issues/29)--2022-10-21
-## DIARY
-- [九月第一周](https://github.com/wjianbo/blog-data/issues/22)--2022-09-01
-- [八月第四周](https://github.com/wjianbo/blog-data/issues/20)--2022-08-22
-- [八月第三周](https://github.com/wjianbo/blog-data/issues/19)--2022-08-16
-- [八月第二周](https://github.com/wjianbo/blog-data/issues/16)--2022-08-07
-- [四月第二周](https://github.com/wjianbo/blog-data/issues/13)--2022-04-09
-<details><summary>显示更多</summary>
-
-- [3月第4周](https://github.com/wjianbo/blog-data/issues/11)--2022-03-31
-- [周记3-3](https://github.com/wjianbo/blog-data/issues/8)--2022-03-22
-- [周记3-2](https://github.com/wjianbo/blog-data/issues/6)--2022-03-13
-</details>
-
+- [屋久岛](https://github.com/wjianbo/blog-data/issues/25)--2022-09-29
+- [ITパスポート試験対策](https://github.com/wjianbo/blog-data/issues/21)--2022-08-23
+- [读书笔记](https://github.com/wjianbo/blog-data/issues/18)--2022-08-09
+- [Rust学习笔记](https://github.com/wjianbo/blog-data/issues/17)--2022-08-09
 ## TODO
 TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--1 jobs to do--5 jobs done
 - [x] 《重构》
@@ -32,15 +19,15 @@ TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--1 jobs t
 - [x] 『クジラアタマの王様』（7.30〜
 - [ ] 『小説の惑星〜オーシャンラズベリー篇～』（3.7〜）
 
-TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--7 jobs to do--3 jobs done
+TODO list from [娱乐](https://github.com/wjianbo/blog-data/issues/2)--4 jobs to do--6 jobs done
+- [x] 国王排名
+- [x] 不良人 第五季
 - [x] 勿言推理
 - [x] 真凶标签
 - [x] 人生切割术Severance（2022）
+- [x] 风骚律师 最终季（4.18～
 - [ ] 进击的巨人 最终季
-- [ ] 国王排名
 - [ ] 海贼王
-- [ ] 不良人 第五季
-- [ ] 风骚律师 最终季（4.18～
 - [ ] 塞尔达
 - [ ] 吾之战争
 
