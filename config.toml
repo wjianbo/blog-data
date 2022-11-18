@@ -235,14 +235,14 @@ uglyURLs = false
         weight = 1
         pre = "internal"
         post = "grav"
-        identifier = "life"
+        identifier = "issues"
     [[menu.main]]
         pageref = "/translation/"
         name = "翻译"
         weight = 2
         pre = "internal"
         post = "wpexplorer"
-        identifier = "tech"
+        identifier = "translation"
     [[menu.main]]
         pageref = "/about/"
         name = "关于"
@@ -253,17 +253,17 @@ uglyURLs = false
 
     ## 首页的底部链接
     # [[menu.home]]
-    #     pageref = "/life/"
+    #     pageref = "/issues/"
     #     weight = 1
     #     pre = "internal"
     #     post = "grav"
-    #     identifier = "life"
+    #     identifier = "issues"
     # [[menu.home]]
-    #     pageref = "/tech/"
+    #     pageref = "/translation/"
     #     weight = 2
     #     pre = "internal"
     #     post = "wpexplorer"
-    #     identifier = "tech"
+    #     identifier = "translation"
     # [[menu.home]]
     #     pageref = "/about/"
     #     weight = 3
@@ -530,7 +530,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    mainSections = ["life", "tech"]
+    mainSections = ["issues", "translation"]
 
 
     ######################################
@@ -1052,7 +1052,7 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 分段样式（全局设置）
-    paragraphStyle = "margin"
+    paragraphStyle = "indent"
     # 说明：段间距式（margin）或段首缩排（indent）
     #      文章的 Front Matter 中的 `indent`
     #      的优先级高于此处
@@ -1069,7 +1069,7 @@ uglyURLs = false
     ## 首字下沉
 
     # 是否开启（全局设置）
-    enableDropCap = false
+    enableDropCap = true
     # 说明：文章的 Front Matter 中的 `dropCap`
     #      的优先级高于此处
 
