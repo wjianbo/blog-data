@@ -1,7 +1,7 @@
 ---
 title: UiPath 学习笔记
 date: 2020-01-28 20:13:01
-tags: UiPath
+tags: [UiPath]
 ---
 完成了 Level 3 最后一个任务。
 

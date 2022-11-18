@@ -1,7 +1,7 @@
 ---
 title: Hexo+Github 搭建博客（Mac）
 date: 2020-01-14 07:54:22
-tags: 博客
+tags: [blogging]
 ---
 ## 安装
 
