@@ -1,0 +1,27 @@
+name: Generate GitBlog README
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main 
+    paths:
+      - blogger/target/
+
+env:
+  GITHUB_NAME: wjianbo 
+  GITHUB_EMAIL: jnb.wang@gmail.com
+
+jobs:
+  sync:
+    name: Run blogger
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Run blogger
+        run: |
+          source venv/bin/activate
+          blogger/target/debug/blogger
+          ls
