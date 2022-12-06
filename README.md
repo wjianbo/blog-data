@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [第二周](https://github.com/wjianbo/blog-data/issues/38)--2022-12-06
 - [第一周](https://github.com/wjianbo/blog-data/issues/37)--2022-12-02
 - [第五周](https://github.com/wjianbo/blog-data/issues/35)--2022-11-28
 - [第四周](https://github.com/wjianbo/blog-data/issues/34)--2022-11-22
 - [第三周](https://github.com/wjianbo/blog-data/issues/33)--2022-11-15
-- [屋久岛](https://github.com/wjianbo/blog-data/issues/25)--2022-09-29
 ## TODO
 TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--1 jobs to do--5 jobs done
 - [x] 《重构》
