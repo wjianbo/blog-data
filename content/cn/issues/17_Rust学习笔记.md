@@ -18,3 +18,10 @@ date: 2022-08-09 09:43:56
 
 ## Web framework:  Actix
 [hello-world](https://actix.rs/docs/getting-started)
+
+---
+
+- **Rc** stands for reference counting, and it is used in Rust to makes possibles a single values has multiples owners. 
+- **Arc** stands for Atomic Reference Counting, it is like the Rc, but with the possibility to work with threads.[^1]
+
+[^1]: [Box, Rc, Arc, and the relation with threads.](https://henrybarreto.dev/box-rc-arc-and-the-relation-with-threads)
