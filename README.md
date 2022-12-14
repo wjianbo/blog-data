@@ -6,10 +6,10 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
  | ---- | ---- | ---- |
 ## 最近更新
 - [第三周](https://github.com/wjianbo/blog-data/issues/39)--2022-12-12
-- [第二周](https://github.com/wjianbo/blog-data/issues/38)--2022-12-06
-- [第一周](https://github.com/wjianbo/blog-data/issues/37)--2022-12-02
-- [第五周](https://github.com/wjianbo/blog-data/issues/35)--2022-11-28
-- [第四周](https://github.com/wjianbo/blog-data/issues/34)--2022-11-22
+- [ITパスポート試験対策](https://github.com/wjianbo/blog-data/issues/21)--2022-08-23
+- [读书笔记](https://github.com/wjianbo/blog-data/issues/18)--2022-08-09
+- [Rust学习笔记](https://github.com/wjianbo/blog-data/issues/17)--2022-08-09
+- [Long Time No Write](https://github.com/wjianbo/blog-data/issues/14)--2022-08-01
 ## TODO
 TODO list from [阅读](https://github.com/wjianbo/blog-data/issues/5)--1 jobs to do--5 jobs done
 - [x] 《重构》
