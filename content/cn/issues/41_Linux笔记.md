@@ -2,7 +2,7 @@
 title: Linux笔记
 date: 2022-12-20 23:57:00
 ---
-### 安装中日文输入法（Steam Deck 桌面模式）
+安装中日文输入法（Steam Deck 桌面模式）
 
 1. 通过 Discover - Software Center 安装 ：
 
