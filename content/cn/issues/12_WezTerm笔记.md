@@ -1,7 +1,9 @@
 ---
-title: WezTerm中日文乱码问题解决方法（Mac）
+title: WezTerm笔记
 date: 2022-04-08 07:13:58
 ---
+### 解决中日文乱码问题（Mac）
+
 在 `~/.zshrc` 文件中添加一行：
 ```shell
 export LANG=en_US.UTF-8
