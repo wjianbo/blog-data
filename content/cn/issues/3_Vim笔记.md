@@ -42,4 +42,4 @@ $ locale
 
 Use VIM mode within leetcode editor
 
-type `:imap kj <Esc>` first.
+- Exit insert mode: `CTRL + C`
