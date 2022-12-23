@@ -39,7 +39,7 @@ schema_list:
 
 ---
 
-Get rid of read only filesystem folders (like /usr)
+Get rid of read only filesystem folders (like /usr) on Steam Deck
 
 ```bash
 sudo steamos-readonly disable
