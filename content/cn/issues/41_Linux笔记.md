@@ -35,3 +35,18 @@ schema_list:
 配置文件的位置可能不同，参考[这里](https://github.com/rime/home/wiki/UserData)。
 
 6. 右键点击输入法图标，选择 Deploy 使配置生效。
+
+
+---
+
+Get rid of read only filesystem folders (like /usr)
+
+```bash
+sudo steamos-readonly disable
+```
+
+enable it again after you're done with your changes:
+
+```shell
+sudo steamos-readonly enable
+```
