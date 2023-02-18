@@ -7,4 +7,4 @@ disable_highlight: true
 
 欢迎来到我的角落。
 
-如果你是第一次来，可以看看[这里](cn/about)。
+如果你是第一次来，可以看看[这里](about.md)。
