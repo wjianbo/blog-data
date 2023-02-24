@@ -10,7 +10,7 @@ date: 2023-02-23
 
 ![Graph view](/Extras/Images/IMG_0217.png)
 
-另外，我给博客添加了 [hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) 支持。可以使用跟 Ob 内部链接同样的语法建立博客文章之间的链接。按照 markdown 的语法，链接要写成 `[text](file path)`，而 Ob 的内部链接语法则可以直接写成 `[[file name]]`。不需要指定具体路径，简洁明快。
+另外，我给博客添加了 [hugo-wikilinks](https://github.com/milafrerichs/hugo-wikilinks) 支持。可以使用跟 Ob 内部链接同样的语法建立博客文章之间的链接，不再需要指定具体路径，简洁明快。
 
 用 Ob 管理博客的方法很简单。因为我的博客用 GitHub Actions 实现了自动部署，所以只要想办法把我 Ob vault 里的 Blog 文件夹同步到  blog-data 仓库的 content 目录即可。
 
